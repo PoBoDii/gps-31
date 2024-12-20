@@ -1,9 +1,9 @@
-import unittest
-import transform
-
 """
 Aquest modul executa els tests del repositori
 """
+import unittest
+import transform
+
 
 class TestStringMethods(unittest.TestCase):
     """
